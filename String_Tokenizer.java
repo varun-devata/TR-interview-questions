@@ -1,3 +1,5 @@
+//This program will print the words of a given string in seperate lines
+
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
