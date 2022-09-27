@@ -1,3 +1,7 @@
+//Happy number : 7 = 7**2 => 49 --- 4^2 + 9^2 => 97 ----9^2 + 7^2 => 130 ----- 1^2 + 3^2 + 0^2 = 10 --- 1^2 + 0^2 => 1
+//Happy number : if the reccursive sum of digits of a number results to 1 such numbers are called happy numbers...
+ 
+
 import java.util.Scanner;
 
 public class HappyNumber {
