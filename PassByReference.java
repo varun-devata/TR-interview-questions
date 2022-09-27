@@ -9,7 +9,6 @@ public class PassByReference {
 	public static void main(String[] args) {
 		
 		int[] marks = {45, 60, 72};
-		
 		System.out.println("Marks of 2nd subject before changing " + marks[1]);
 		
 		PassByReference obj = new PassByReference();

@@ -1,4 +1,6 @@
-
+//in pass by value the copy of a variable is passed to the method 
+//changes done by the method will be only inside the method
+//original value of the variable will not change
 public class PassByValue {
 	
 	public void fun(int a) {
